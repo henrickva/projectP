@@ -1,0 +1,40 @@
+.navbar{
+    box-sizing: border-box;
+    display: flex;
+    height: 60px;
+    padding: 0,3rem;
+    justify-content: space-between;
+    background-color: #4e367e;
+    align-items: center;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    gap: .5rem;
+}
+
+
+.item a {
+    display:block ;
+    color:#e9cfec;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.list a {
+    display:block;
+    padding: .3rem;
+}
+
+.item a:hover{
+    color: #090121;
+    background-color: #e9cfec;
+    border-radius: 5px;
+}
+.imagem{
+    width: 60px;
+    height: 60px;
+}
+
