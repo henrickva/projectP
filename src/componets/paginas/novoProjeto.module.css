@@ -16,3 +16,9 @@
     color: #7b7b7b;
     margin-bottom: 8px;
 }
+
+.botao {
+    display: flex;
+    align-items: center;
+    width: 300px;
+}
