@@ -1,7 +1,7 @@
 import styles from './novoProjeto.module.css'
 import FormProjeto from '../Projeto/formProjeto'
 
-export default function novoProjeto(){
+export default function NovoProjeto(){
     return (
         <div className={styles.novoProjeto_container}>
             <h1>Criando um novo projeto</h1>

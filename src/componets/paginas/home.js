@@ -2,7 +2,7 @@ import styles from './home.module.css'
 import BotaoHome from '../Layouts/BotaoHome'
 import logoHome from '../Imagens/logoHome.png'
 
-export default function home() {
+export default function Home() {
     return (
         <section className ={styles.home_container}>
             <h1>Seja bem-vindo ao Project P</h1>
